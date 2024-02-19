@@ -1,10 +1,12 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# GitHub-Mastery
+<div align="center">
+  <img src="images/github icon-blue.jpg" alt="Microsoft Fabric Exploratorium" width="200"/>
+  <h1> GitHub-Mastery</h1>
+  <p>This repository is designed to help individuals of all skill levels master the concepts of version control with Git and collaboration using GitHub. Whether you're a beginner, intermediate, or advanced user, you'll find resources and examples here to enhance your understanding.</p>
+</div>
 
-![GitHub Desktop Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
-This repository is designed to help individuals of all skill levels master the concepts of version control with Git and collaboration using GitHub. Whether you're a beginner, intermediate, or advanced user, you'll find resources and examples here to enhance your understanding.
 
 ## Table of Contents
 
